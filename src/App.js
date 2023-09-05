@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import ListaProductos from "./componentes/ListaProductos";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './componentes/home/home';
@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <h1 className='titulo'>Mi web con React Trabajo Práctico Final</h1>
       
-      <Router>
+      <BrowserRouter basename='react_gonzalez_servando_trabajo_5_final'>
         <Routes>
           <Route path='/' element={<Home/>}></Route>
           <Route path="/listaProductos" element={<ListaProductos />} />
@@ -25,7 +25,7 @@ function App() {
           <Route path='/login' element={<Login/>}></Route>
           <Route path='/qsomos/qsomos' element={<Qsomos/>}></Route>
         </Routes>
-      </Router>
+      </BrowserRouter>
       
     </div>
     
