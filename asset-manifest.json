@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_gonzalez_servando_trabajo_5_final/static/css/main.724c9ac6.css",
+    "main.js": "/react_gonzalez_servando_trabajo_5_final/static/js/main.9b5b4713.js",
+    "static/js/787.a3b7d8fb.chunk.js": "/react_gonzalez_servando_trabajo_5_final/static/js/787.a3b7d8fb.chunk.js",
+    "static/media/joyeria.png": "/react_gonzalez_servando_trabajo_5_final/static/media/joyeria.60911797bb9a34992f98.png",
+    "index.html": "/react_gonzalez_servando_trabajo_5_final/index.html",
+    "main.724c9ac6.css.map": "/react_gonzalez_servando_trabajo_5_final/static/css/main.724c9ac6.css.map",
+    "main.9b5b4713.js.map": "/react_gonzalez_servando_trabajo_5_final/static/js/main.9b5b4713.js.map",
+    "787.a3b7d8fb.chunk.js.map": "/react_gonzalez_servando_trabajo_5_final/static/js/787.a3b7d8fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724c9ac6.css",
+    "static/js/main.9b5b4713.js"
+  ]
+}
