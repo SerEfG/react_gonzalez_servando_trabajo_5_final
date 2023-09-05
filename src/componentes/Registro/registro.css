@@ -1,0 +1,27 @@
+.general{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    padding: 10px;
+    margin-left: 450px;
+}
+.campo{
+    font: bolder;
+    margin-left: 10px; /*Separación entre etiqueta y campo */
+    width: 400px; /*Ancho del campo */
+}
+.error{
+    color: rgb(32, 10, 226);
+}
+.salida{
+    font-size: 25px;
+    border-radius: 100px;
+    background-color: rgb(46, 184, 11);
+}
+.button{
+    font-size: 35px;
+    border-radius: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: yellow;
+    background: blue;
+}

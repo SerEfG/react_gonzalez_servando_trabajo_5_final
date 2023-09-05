@@ -1,0 +1,18 @@
+h2{
+    font-size: 50px;
+    color: lightgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+}
+.salida{
+    font-size: 25px;
+    border-radius: 100px;
+    background-color: rgb(46, 184, 11);
+}
+.button{
+    font-size: 35px;
+    border-radius: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: yellow;
+    background: blue;
+}
+
